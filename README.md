@@ -24,32 +24,28 @@ A modern e-commerce platform built with React, TypeScript, and Tailwind CSS, off
 
 1. Clone the repository:
 
-````bash
+`bash
 git clone https://github.com/proall22/ecom-web.git
 
-
 2. Install dependencies:
-```bash
-npm install
+   bash
+   npm install
 
 3. Start the development server:
-```bash
+
 npm run dev
 
 ## Project Structure
 
 project/ ├── src/ │ ├── components/ │ │ ├── SimilarItems.tsx │ │ └── ... other components │ ├── context/ │ │ └── CartContext.tsx │ └── ... other directories ├── public/ │ └── images/ └── ... configuration files
 
-
 ## Contributing
 
 1. Fork the repository
-2. Create your feature branch (`git checkout -b feature/AmazingFeature`)
-3. Commit your changes (`git commit -m 'Add some AmazingFeature'`)
-4. Push to the branch (`git push origin feature/AmazingFeature`)
+2. Create your feature branch: `git checkout -b feature/AmazingFeature`
+3. Commit your changes: `git commit -m 'Add some AmazingFeature'`
+4. Push to the branch: `git push origin feature/AmazingFeature`
 5. Open a Pull Request
-
-
 
 ## Contact
 
@@ -61,4 +57,3 @@ project/ ├── src/ │ ├── components/ │ │ ├── SimilarItems
 - **LinkedIn**: [linkedin.com/in/misgana-bb46bb288](https://linkedin.com/in/misgana-bb46bb288)
 - **GitHub**: [github.com/proall22](https://github.com/proall22)
 - **Twitter**: [@Misgu2na](https://twitter.com/Misgu2na)
-````
