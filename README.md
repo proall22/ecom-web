@@ -6,11 +6,10 @@ An e-commerce platform built with React, TypeScript, and Tailwind CSS, offering 
 
 - 🛍️ Product browsing with detailed views
 - 🛒 Shopping cart functionality
-- ❤️ Wishlist/Favorites system
 - 📱 Responsive design for all devices
-- ⭐ Product ratings and reviews
-- 🏷️ Category filtering
-- 💳 Seamless checkout process
+- ➕ Add to cart implementation
+- 🚧 design UI/UX
+- 💳 checkout process
 
 ## Tech Stack
 
