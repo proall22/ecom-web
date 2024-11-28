@@ -1,6 +1,6 @@
-# Modern E-commerce Shopping Experience
+# E-commerce Shopping Gebeya App
 
-A modern e-commerce platform built with React, TypeScript, and Tailwind CSS, offering a seamless shopping experience.
+An e-commerce platform built with React, TypeScript, and Tailwind CSS, offering a seamless shopping experience.
 
 ## Features
 
